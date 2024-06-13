@@ -14,7 +14,8 @@
     "@google-cloud/firestore": "^7.1.0",
     "@hapi/hapi": "^21.3.2",
     "@tensorflow/tfjs-node": "^4.14.0",
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "joi": "^17.13.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
